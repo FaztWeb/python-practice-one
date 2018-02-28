@@ -11,3 +11,4 @@ is a repository of Python 3 examples that helps you to know more about this prog
 # Guide
 To practice progressively, see the next programs in this order:
 - guess/
+- jokes/
